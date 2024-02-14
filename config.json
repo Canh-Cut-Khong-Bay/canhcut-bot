@@ -1,0 +1,9 @@
+{
+    "prefix": "/",
+    "admin_only": "False",
+    "admin_uid": "61550126549146",
+    "owner_bots": "u_in_here !!!",
+    "wrong_cmd": "u_here",
+    "no_have_cmd": "u_here 1",
+    "cookie": "u_cookie_here"
+}

@@ -5,7 +5,8 @@ thanks for fbchat-v2, in here <https://github.com/MinhHuyDev/fbchat-v2>
 i'm **Cánh Cụt Không Bay**, thats mean is penguin is not fly 🐧
 
 **how to run**
-***setup***: pip install requests 
+ 
+ ***setup***: pip install requests 
 _please check the setup in fbchat-v2 gits and put you cookie in config.json and other 
 
 **how to make a cmd bot**
